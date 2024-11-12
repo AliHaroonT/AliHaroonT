@@ -1,5 +1,9 @@
+
+
 Hi, I'm Ali Haroon, an early-career researcher focused on Computer Vision and Artificial Intelligenc. 
+
 My goal is to make a meaningful contributions by developing simple and practical solutions in this field. 
+
 Feedbacks and comments are welcome
 
 Thank you for visiting my profile. 
