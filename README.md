@@ -2,7 +2,7 @@
 <div align="center">
   
   
-  Hi        |        مرحبًا        |        خوش آمدید        |        안녕하세요        |         こんにちは
+  <p> Hi &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp مرحبًا        |        خوش آمدید        |        안녕하세요        |         こんにちは </p>p
   
   I'm Ali Haroon, an early-career researcher focused on Computer Vision and Artificial Intelligence. 
   My goal is to make a meaningful contributions by developing simple and practical solutions in this field. 
