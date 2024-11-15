@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
-  <a href="https://discord.com/users/b.alee"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/Discord.png width="3%" alt="AliHaroon Discord"></a>
+  <a href="https://discord.com/users/b.alee"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/Discord.png width="5%" alt="AliHaroon Discord"></a>
+  <a href="[https://discord.com/users/b.alee](https://www.linkedin.com/in/ali-haroon-turk-294116202/)"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/linkedin.png width="5%" alt="AliHaroon Linkedin"></a>
 
 </div>
