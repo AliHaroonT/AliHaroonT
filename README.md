@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
-  <a href="https://discord.com/users/b.alee"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/Discord.png width="5%" alt="AliHaroon Discord"></a>
-  <img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/transparent.png width="5%" alt="space"></a>
-  <a href="https://www.linkedin.com/in/ali-haroon-turk-294116202"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/linkedin.png width="5%" alt="AliHaroon Linkedin"></a>
+  <a href="https://discord.com/users/b.alee"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/Discord.png width="4%" alt="AliHaroon Discord"></a>
+  <img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/transparent.png width="3%" alt="space"></a>
+  <a href="https://www.linkedin.com/in/ali-haroon-turk-294116202"><img src=https://github.com/AliHaroonT/AliHaroonT/blob/main/images/linkedin.png width="4%" alt="AliHaroon Linkedin"></a>
 
 </div>
